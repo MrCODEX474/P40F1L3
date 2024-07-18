@@ -1,4 +1,4 @@
-<h1> <img  style="align-item" :"center" src="https://te.legra.ph/file/63531adaa61fd0c91a556.jpg" width="50px" height="60%"> ⚡Hᴇʏ❣️
+<h1> <img  style="align-item" :"https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg" width="50px" height="60%"> ⚡Hᴇʏ❣️
       
 
        🎭 𝐌𝐫 𝐑คค𝐙 🎭
@@ -7,12 +7,12 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/BR4ND3D_K4M33N44/coun t.svg" />
 </p>
 
-[<img src="https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg"/>](https://github.com/MRH4CK3R474)
+[<img src="https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg"/>](https://github.com/MrCODEX474)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=MRH4CK3R474&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/MRH4CK3R474)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Op_CODEX&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/MRH4CK3R474)
+[<img src="https://github-readme-stats.vercel.app/api?username=MRH4CK3R474&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">] [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Op_CODEX&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">]
 
 [<img src="https://github.com/MRH4CK3R474/CDX-PROFILE/blob/master/resources/hr.gif"/>](https://github.com/MRH4CK3R474)
 
