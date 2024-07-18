@@ -7,7 +7,7 @@
    <img align="middle" src="https://profile-counter.glitch.me/BR4ND3D_K4M33N44/coun t.svg" />
 </p>
 
-[<img src="[<img src="https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg"/>](https://github.com/MrCODEX474)
+[<img src="https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg"/>](https://github.com/MrCODEX474)
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
