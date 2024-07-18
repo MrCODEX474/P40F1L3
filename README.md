@@ -1,13 +1,13 @@
 <h1> <img  style="align-item" :"center" src="https://te.legra.ph/file/63531adaa61fd0c91a556.jpg" width="50px" height="60%"> ⚡Hᴇʏ❣️
       
 
-       🎭 🇨Ⓞ𝗗𝜩🇽 💨 
+       🎭 𝐌𝐫 𝐑คค𝐙 🎭
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Op_CODEX/coun t.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/BR4ND3D_K4M33N44/coun t.svg" />
 </p>
 
-[<img src="https://te.legra.ph/file/63531adaa61fd0c91a556.jpg"/>](https://github.com/MRH4CK3R474)
+[<img src="https://telegra.ph/file/f6c6084e8e7bca8d869e0.jpg"/>](https://github.com/MRH4CK3R474)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
@@ -26,7 +26,7 @@
 ## Connect with Me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/MRH4CK3R474)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TEAM_CDX)
+[![Instagram](https://img.shields.io/badge/instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Op_CODEX)￼Enter
