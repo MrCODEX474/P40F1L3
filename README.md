@@ -3,7 +3,7 @@
 
        🎭 𝐌𝐫 𝐑คค𝐙 🎭
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
+      
    <img align="middle" src="https://profile-counter.glitch.me/BR4ND3D_K4M33N44/coun t.svg" />
 </p>
 
