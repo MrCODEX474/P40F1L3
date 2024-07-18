@@ -26,7 +26,7 @@
 ## Connect with Me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/MRH4CK3R474)
-[![Instagram](https://img.shields.io/badge/instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/mr_raaj_474)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Op_CODEX)￼Enter
